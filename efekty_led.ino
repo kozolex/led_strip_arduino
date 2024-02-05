@@ -36,10 +36,10 @@ void loop() {
     } 
   switch (mode) {
     case 0:
-      colorWipe(strip.Color(255, 255, 255), DELAY); // Cold white color
+      colorWipe(strip.Color(255, 147, 41), DELAY); // Warm white color
       break;
     case 1:
-      colorWipe(strip.Color(255, 147, 41), DELAY); // Warm white color
+      colorWipe(strip.Color(255, 255, 255), DELAY); // Cold white color
       break;
     case 2:
       colorWipe(strip.Color(255, 0, 0), DELAY); // Red color
