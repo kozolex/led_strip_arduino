@@ -9,7 +9,7 @@ More details in:</br>
 https://www.tinkercad.com/things/aP4Vo3IVKMC-led-effect-ver-10</br>
 <img src="https://csg.tinkercad.com/things/aP4Vo3IVKMC/t725.png?rev=1707160430369000000&s=&v=1&type=circuits">
 
-Cover 3d print:
-https://www.tinkercad.com/things/1H42Q0kwJGK-sizzling-rottis-tumelo/edit?returnTo=%2Fdashboard%3Fcollection%3Ddesigns&sharecode=06NiSy1oLGekLw2IL85xl5k2tFKO4xAORw0lAPmdMwo</br>
+</br>Cover 3d print:</br>
+[3d project in TK](https://www.tinkercad.com/things/1H42Q0kwJGK-coverarduinonanoledstrip)</br>
 
-<img src=" https://csg.tinkercad.com/things/1H42Q0kwJGK/t725.png?rev=1707227600356000000&s=&v=1&cb=1707227611410">
+<img src="https://csg.tinkercad.com/things/1H42Q0kwJGK/t725.png?rev=1707227732159000000&s=&v=1">
