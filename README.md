@@ -1,4 +1,4 @@
-# led_strip_arduino (Arduino Micro)
+# led_strip_arduino (Arduino Nano)
 Controlling the LED strip (set any length in the #define NUM_LEDS X line) using Arduino Nano.</br>
 Contains 8 different scenes:</br>
 1. colorWipe - colors R, G, B, Violet, Warm and cool white
